@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, add the following environment variables in an `.env` file in the root folder:
+First, add the following environment variables in a `.env` file in the root folder:
 ```./.env
 NEXT_PUBLIC_PROJECT_KEY={OpenReplay Project Key}
 NEXT_PUBLIC_INGEST_POINT={OpenReplay Ingest Point URL}
@@ -21,7 +21,7 @@ bun dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This website works along [https://github.com/nmcolome/open-replay-frontend](this frontend).
+This website works along [https://github.com/nmcolome/open-replay-frontend](https://github.com/nmcolome/open-replay-frontend).
 
 ## Running OpenReplay with Ngrok
 To test locally, run the app using ngrok.
